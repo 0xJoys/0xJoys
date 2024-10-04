@@ -1,15 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ajisefinni Joy! 👋
 
-**0xJoys/0xJoys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Learning:**  
+I'm currently mastering JavaScript as I work to become one of the best programmers in the world. I'm passionate about web development, blockchain technology, and full-stack apps.
 
-Here are some ideas to get you started:
+💻 **Tech Stack:**  
+- **Frontend:** React.js, Next.js, Tailwind CSS  
+- **Backend:** Node.js, MongoDB  
+- **Blockchain:** Ethereum, Ethers.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 **Projects:**  
+- Building a full-stack app with Google authentication using Next.js
+- Working on Ethereum wallet generation and crypto integrations
 
+📚 **Currently Studying:**  
+- [JavaScript for Beginners - The Complete Course for Beginners](https://www.udemy.com/course/javascript-for-beginners-complete-course/)
+
+🏡 **Personal:**  
+Currently in the process of buying my first home 🏠.
+
+🔗 **Connect with Me:**  
+- [Twitter](https://twitter.com/your_handle)
+- [LinkedIn](https://linkedin.com/in/your_profile)
+
+⚡ **Fun Fact:**  
+I've been in the tech and crypto space for around 4 years, and I’m always looking to learn new things and take on exciting challenges.
