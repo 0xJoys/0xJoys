@@ -1,7 +1,7 @@
 # Hi, I'm Ajisefinni Joy! 👋
 
-🌱 **Learning:**  
-I'm currently mastering JavaScript as I work to become one of the best programmers in the world. I'm passionate about web development, blockchain technology, and full-stack apps.
+🌱 **About Me:**  
+I'm passionate about web development, blockchain technology, and full-stack apps.
 
 💻 **Tech Stack:**  
 - **Frontend:** React.js, Next.js, Tailwind CSS  
@@ -16,11 +16,11 @@ I'm currently mastering JavaScript as I work to become one of the best programme
 - [JavaScript for Beginners - The Complete Course for Beginners](https://www.udemy.com/course/javascript-for-beginners-complete-course/)
 
 🏡 **Personal:**  
-Currently in the process of buying my first home 🏠.
+I'm currently mastering JavaScript as I work to become one of the best programmers in the world.
 
 🔗 **Connect with Me:**  
-- [Twitter](https://twitter.com/your_handle)
-- [LinkedIn](https://linkedin.com/in/your_profile)
+- [Twitter](https://twitter.com/0xJoys)
+- [LinkedIn](https://www.linkedin.com/in/ajisefinni-joy)
 
 ⚡ **Fun Fact:**  
 I've been in the tech and crypto space for around 4 years, and I’m always looking to learn new things and take on exciting challenges.
