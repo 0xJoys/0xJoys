@@ -1,22 +1,24 @@
-# Hi, I'm Ajisefinni Joy! 👋
+# Hi, I'm Ajisefinni Joy! — JOYS 👋
 
 🌱 **About Me:**  
 I'm passionate about web development, blockchain technology, and full-stack apps.
 
 💻 **Tech Stack:**  
-- **Frontend:** React.js, Next.js, Tailwind CSS  
+- **Frontend:** React.js, Next.js, JavaScript, Tailwind CSS  
 - **Backend:** Node.js, MongoDB  
-- **Blockchain:** Ethereum, Ethers.js
+- **Blockchain:** Ethereum, Smart Contract, Ethers.js
 
 🚀 **Projects:**  
-- Building a full-stack app with Google authentication using Next.js
+- Building a full-stack website for Project using Next.js
 - Working on Ethereum wallet generation and crypto integrations
 
 📚 **Currently Studying:**  
-- [JavaScript for Beginners - The Complete Course for Beginners](https://www.udemy.com/course/javascript-for-beginners-complete-course/)
+- Machine Learning
+- Modeling
+- Rust
 
 🏡 **Personal:**  
-I'm currently mastering JavaScript as I work to become one of the best programmers in the world.
+I work to become one of the best developer in the world.
 
 🔗 **Connect with Me:**  
 - [Twitter](https://twitter.com/0xJoys)
@@ -42,7 +44,7 @@ I've been in the tech and crypto space for around 4 years, and I’m always look
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xJoys&show_icons=true&locale=en&layout=compact" alt="Joys" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xJoys&show_icons=true&locale=en" alt="bernardonuh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xJoys&show_icons=true&locale=en" alt="0xJoys" /></p>
 
 
 
